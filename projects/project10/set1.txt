@@ -1,0 +1,10 @@
+charlie
+bravo
+delta
+alpha
+baker
+golf
+india
+hotel
+echo
+xray
